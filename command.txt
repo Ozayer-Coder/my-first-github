@@ -1,8 +1,11 @@
 # once in every project to start git
 git init
+
 # everytime to add
 git add .
-git commit -m "first commit"
+
+# once in one computer
+git commit -m "my-github commit"
 git branch -M main
 git remote add origin https://github.com/Ozayer-Coder/my-first-github.git
 git push -u origin main
